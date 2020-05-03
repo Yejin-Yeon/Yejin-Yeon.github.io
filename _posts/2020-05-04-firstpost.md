@@ -1,12 +1,11 @@
 ---
-title: "My post"
-category:  post
+title: "My first post"
 ---
 
 My first post
 ==========
 
-instagram post
+make github page
 --------------
 
-#first #post #instagram #daily #OSS
+2020OSS programming
