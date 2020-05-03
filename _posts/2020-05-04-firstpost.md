@@ -1,3 +1,7 @@
+---
+title : "My post"
+---
+
 My first post
 ==========
 
