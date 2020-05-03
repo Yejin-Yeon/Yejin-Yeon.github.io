@@ -1,5 +1,6 @@
 ---
-title : "My post"
+title: "My post"
+category:  post
 ---
 
 My first post
